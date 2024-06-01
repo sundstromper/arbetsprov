@@ -38,6 +38,8 @@ curl http://localhost:8080/q/openapi
 
 
 # Arbetsprov gui
+Det finns en knapp för att lägga till testgubbar. Sen får man ladda om sidan så syns dom i listan.
+
 
 ## Installera beroenden
 ```
